@@ -1,0 +1,15 @@
+{
+  "name": "snagdrops-affiliate-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SnagDrops Affiliate Discovery & Onboarding Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "imapflow": "^1.4.0",
+    "openai": "^4.0.0"
+  }
+}
