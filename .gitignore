@@ -1,0 +1,5 @@
+node_modules/
+.env
+*.log
+deals.json
+goju-contacts.json
